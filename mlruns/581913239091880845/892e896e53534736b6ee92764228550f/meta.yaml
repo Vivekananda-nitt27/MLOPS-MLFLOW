@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Subhalaxmi%20Sahoo/OneDrive/Desktop/ML-OPS/MLOPS-MLFLOW/mlruns/581913239091880845/892e896e53534736b6ee92764228550f/artifacts
+end_time: 1763994090458
+entry_point_name: ''
+experiment_id: '581913239091880845'
+lifecycle_stage: active
+run_id: 892e896e53534736b6ee92764228550f
+run_name: persistent-smelt-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763994090359
+status: 3
+tags: []
+user_id: Subhalaxmi Sahoo

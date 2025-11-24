@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/601122910956274230/9aa7cd71cbca48828c6ada6da62c85e6/artifacts
+end_time: 1763962564501
+entry_point_name: ''
+experiment_id: '601122910956274230'
+lifecycle_stage: active
+run_id: 9aa7cd71cbca48828c6ada6da62c85e6
+run_name: thoughtful-owl-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763962560675
+status: 3
+tags: []
+user_id: Subhalaxmi Sahoo

@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/788670576835961278/models/m-3830331e332c4b7da7c96429e2d40dee/artifacts
+creation_timestamp: 1763982992645
+experiment_id: '788670576835961278'
+last_updated_timestamp: 1763982999624
+model_id: m-3830331e332c4b7da7c96429e2d40dee
+model_type: ''
+name: ANN-Wine-Model
+source_run_id: 8f76b9649d11473f9e68db843b1ca05a
+status: 2
+status_message: null
